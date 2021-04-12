@@ -15,8 +15,8 @@
   <distributionManagement>
     <repository>
       <id>github</id>
-      <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/klaven/Java-Test/awesomeapp.net/</url>
+      <name>Bob</name>
+      <url>https://maven.pkg.github.com/klaven/Java-Test/bob.test.bill/>
     </repository>
   </distributionManagement>
 
